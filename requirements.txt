@@ -1,0 +1,7 @@
+fastapi
+redis
+types-redis
+uvicorn
+pipenv
+pydantic
+sqlalchemy
